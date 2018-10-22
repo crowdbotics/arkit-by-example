@@ -1,6 +1,5 @@
-# Apple ARKit Example App
-
-A set of tutorials using the new ARKit from Apple.  Follow along at: https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59
+# Crowdbotics AR Kit from Apple
+Follow along at: https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59
 
 ## Demo
 [![ARKit Example](https://img.youtube.com/vi/rNFQl7I4T6Y/0.jpg)](https://www.youtube.com/watch?v=rNFQl7I4T6Y)
